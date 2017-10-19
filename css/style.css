@@ -1,0 +1,211 @@
+html,
+body,
+.bar-nav {
+	padding-top: 38px;
+}
+
+.navbar-nav > li > a {
+	padding-top: 5px;
+	padding-bottom: 5px;
+	margin-right: 5px;
+	margin-left: 5px;
+}
+
+.nav > li > a {
+	color: #fc1616;
+	font-size: 11px;
+	font-style: normal;
+	font-family: open sans;
+}
+
+.navbar-nav .active a {
+	text-decoration: none;
+
+}
+
+.navbar-nav .active1 a {
+	border: 1px solid #fc1616
+}
+
+.nav > li a:focus, .nav > li > a:hover {
+	background-color: transparent;
+	border: 1px solid #f00f0fe6;
+	text-decoration: none;
+}
+
+.navbar {
+	background-color:transparent;
+	min-height: 76px;
+}
+
+.view {
+	height: 100%;
+	width: 100%;
+	background-size: cover;
+	background: url("img/amada.jpg") no-repeat center center;
+	cursor: default;
+
+}
+
+.context-full {
+	height: 200%;
+	width: 100%;
+	background-color: #090707cc;
+}
+
+.written h1 {
+	color: whitesmoke;
+	padding-top: 15px;
+	padding: 15px;
+}
+
+.written h3 {
+	color: whitesmoke;
+	padding: 15px;
+}
+
+.navbar-brand {
+	padding-top: 38px;
+}
+
+.written {
+	text-align: center;
+	margin-top: 175px;
+}
+
+.buttons {
+	padding-top: 10px;
+}
+
+
+.content {
+	margin-top: 50px;
+	margin-bottom: 70px;
+}
+
+.slider h3 {
+	padding-bottom: 20px;
+	color: #f21414e6;
+}
+
+.carousel-inner {
+	position: relative;
+	width: 100%;
+	overflow: hidden;
+	height: 180px;
+	padding: 3px 3px;
+	box-shadow: rgba();
+	-webkit-box-shadow: 0 8px 17px 0 rgba(0,0,0,.19),0 6px 20px 0 rgba(0,0,0,.19);
+}
+
+.carousel-caption {
+	position: absolute;
+	right: 15%;
+	left: 15%;
+	bottom: 20px;
+	z-index: 10px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	color: yellow;
+	text-align: center;
+	text-shadow: 0 2px 3px rgb(9, 9, 9,);
+}
+
+.carousel-caption-burger {
+	right: 20px;
+	left: 20px
+	padding-bottom: 154px;
+}
+
+.first-slide {
+	background-image: url('img/burger.jpg');
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	height: 100px;
+}
+
+
+
+.letter h3 {
+	padding-top: -20px;
+	color: #f21414e6;
+	padding-left: 40px;
+}
+
+.letter-margin > p {
+	padding-left: 40px;
+	padding-top: 20px;
+}
+
+.footer {
+	background-color: #110202;
+	height: 100%;
+	margin-top: 80px;
+}
+
+.full-txt ul > li {
+	padding: 35px 35px;
+	font-size: 14px;
+	list-style: none;
+	color: whitesmoke;
+
+}
+
+
+.media > ul >li {
+	float: left;
+	font-size: 14px;
+	list-style: none;
+	padding: 20px;
+}
+
+.media > li {
+	margin-right:  10px;
+}
+
+.media > ul > li > a {
+	color: whitesmoke;
+}
+
+.serve-dishes img {
+	height: 180px;
+	width: 300px;
+}
+
+.thumbnail > h4 {
+	font-size: 14px bold;
+	text-align: center;
+	font-family: serif;
+}
+
+.thumbnail > p > p {
+	font-size: 14px;
+	padding-left: 5px;
+	padding-right: 5px;
+}
+
+.dishes {
+	margin-top: 25px;
+}
+
+.serve-dishes {
+	margin-top: 25px;
+}
+
+.thumbnail {
+	padding: 4px 5px;
+	border: 1px solid #9b080899;
+	border-radius: 4px;
+	display: block;
+	margin-bottom: 20px;
+	line-height: 1.42857143;
+}
+
+.navbar-fixed-top {
+	background-color: #090707;
+}
+
+.text-btn{
+	margin-bottom: 100%;
+}
